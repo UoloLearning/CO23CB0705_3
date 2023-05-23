@@ -2,7 +2,7 @@ states_and_capitals = {
     'UP': 'Lucknow',
     'Bihar': 'Patna',
     'Rajasthan': 'Udaipur',
-    'Chattisgarh': 'Raipur',
+    'Chhattisgarh': 'Raipur',
     'Jharkhand': 'Ranchi'
 }
 
